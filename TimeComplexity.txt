@@ -1,0 +1,44 @@
+=> time complexity in worst case scenario
+=> avoid constants 
+=> avoid lower values
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

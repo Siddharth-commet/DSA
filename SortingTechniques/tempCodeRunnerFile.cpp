@@ -1,0 +1,1 @@
+merge(arr[low],arr[mid],arr[mid+1],arr[high],arr);
