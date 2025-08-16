@@ -12,7 +12,7 @@ int x=0;
         cout<<x;
         return x;
         
-    }
+    };
 };
 
 int main(){
